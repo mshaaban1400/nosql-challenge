@@ -1,24 +1,6 @@
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m12/lms/img/banner.jpg" alt="lesson banner" />
 
-### Before You Begin
-
-1. Create a new repository for this project called `nosql-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Add your Jupyter notebook starter files and your Resources folder containing `establishments.json` to this folder.
-
-4. Push the changes to GitHub.
-
-### Files
-
-Download the following files to help you get started:
-
-[Module 12 Challenge files](https://static.bc-edx.com/data/dl-1-2/m12/lms/starter/Starter_Code.zip)
-
-### Instructions
-
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, *Eat Safe, Love*, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I have been contracted by the editors of a food magazine, *Eat Safe, Love*, to evaluate some of the ratings data to help their journalists and food critics decide where to focus future articles.
 
 #### Part 1: Database and Jupyter Notebook Set Up
 
